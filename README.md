@@ -30,7 +30,7 @@ I suoi saggi teoretici e scritti sono principalmente di natura filosofica, antro
 
 ### Pensieri, Riflessioni e Poesie
 
-* [**Pensiero critico sulla teoria teologica della continuità ratzingeriana (PDF)**](Pensiero_Sulla_Teoria_Ratzingeriana.pdf)
+* [**Pensiero critico sulla teoria teologica della continuità ratzingeriana (PDF)**](Pensiero_sulla_Teoria_Ratzingeriana.pdf)
 
 <br>
 
