@@ -1,8 +1,9 @@
 
 title: "Enrico Maria Bufacchi"
-email: "enrico03.bufacchi@gmail.com" # Inserisci qui la tua email
+email: "enrico03.bufacchi@gmail.com" 
 description: "Archivio Teoretico"
-baseurl: "" 
+baseurl: "/enricomariabufacchi.github.io" 
+url: "https://imrenny.github.io"
 
 remote_theme: pages-themes/minimal@v0.2.0
 
