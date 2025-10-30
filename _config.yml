@@ -2,8 +2,8 @@
 title: "Enrico Maria Bufacchi"
 email: "enrico03.bufacchi@gmail.com" 
 description: "Studente di Matematica Teoretica e Fisica Teorica, scrittore, saggista, teorico. Pianista e organista a tempo perduto."
-baseurl: "/enricomariabufacchi.github.io" 
-url: "https://imrenny.github.io"
+baseurl: "" 
+url: "http://enricomariabufacchi.it"
 
 remote_theme: pages-themes/minimal@v0.2.0
 
