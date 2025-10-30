@@ -31,7 +31,7 @@ His theoretical essays and literary writings are primarily situated at the inter
 ### Theoretical Essays
 
 * [**Lues occidentis: saggi sulla polis, schola e precarietà (PDF)**](Lues_Occidentis.pdf)
-* [**Amore umano, troppo umano: monogamia, peccato e libertà (PDF)**](Amore_Umano_Troppo_Umano.pdf)
+* [**Amore umano, troppo umano: monogamia, peccato e libertà (PDF)**](Amore_umano_troppo_umano.pdf)
 * [**Breve saggio critico sulla morte ideologica (PDF)**](Saggio_Critico_sull'Eclissi_Ideologica.pdf)
 
 <br>
