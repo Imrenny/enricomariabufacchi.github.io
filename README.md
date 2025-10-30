@@ -24,6 +24,7 @@ Questo sito è un atto di _publicum facere_ dei suoi scritti, _paper_ e opere. L
 ### Saggi Teoretici
 
 * [**Lues Occidentis: Saggi sulla Polis, Schola e Precarietà (PDF)**](Lues_Occidentis.pdf)
+* [** (PDF)**](Lues_Occidentis.pdf)
 
 <br>
 
