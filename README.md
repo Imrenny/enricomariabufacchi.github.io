@@ -24,8 +24,8 @@ Questo sito è un atto di _publicum facere_ dei suoi scritti, _paper_ e opere. L
 ### Saggi Teoretici
 
 * [**Lues occidentis: saggi sulla polis, schola e precarietà (PDF)**](Lues_Occidentis.pdf)
-* [**Amore umano, troppo umano (PDF)**](Amore_Umano_Troppo_Umano.pdf)
-* [**Breve saggio critico sull'eclissi ideologica (PDF)**](Saggio_Critico_sull'Eclissi_Ideologica.pdf)
+* [**Amore umano, troppo umano: monogamia, peccato e libertà (PDF)**](Amore_Umano_Troppo_Umano.pdf)
+* [**Breve saggio critico sulla morte ideologica (PDF)**](Saggio_Critico_sull'Eclissi_Ideologica.pdf)
 
 <br>
 
@@ -37,7 +37,7 @@ Questo sito è un atto di _publicum facere_ dei suoi scritti, _paper_ e opere. L
 
 ### Paper Matematico-Fisici
 
-* [**GGL Conjecture - Enrico Maria Bufacchi (PDF)**](GGL_Conjecture.pdf)
+* [**Green-Griffiths-Lang Conjecture (PDF)**](GGL_Conjecture.pdf)
 
 ---
 
