@@ -35,7 +35,7 @@ His theoretical essays and literary works deal principally with theoretical phil
 
 <br>
 
-### Musings, Reflections and Poetry
+### Musings, Reflections, Literary Studies and Poetry
 
 * [**Pensiero critico sulla teoria teologica della continuità ratzingeriana (PDF)**](Pensiero_sulla_teoria_ratzingeriana.pdf)
 
