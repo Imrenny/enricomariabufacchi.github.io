@@ -56,7 +56,3 @@ Questo sito è un atto di _publicum facere_ dei suoi scritti, _paper_ e opere. L
 Le opere originali presenti in questo archivio, salvo dove diversamente indicato, sono distribuite con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribuzione - Non commerciale - Non opere derivate 4.0 Internazionale</a>.
 <br>
 © 2025 Enrico Maria Bufacchi. (Tutti i diritti riservati dove non altrimenti specificato)
-
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
