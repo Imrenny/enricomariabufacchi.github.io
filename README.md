@@ -2,9 +2,6 @@
 
 <img src="enrico.jpg" width="250px" style="border-radius: 50%;"> 
 
-Enrico Maria Bufacchi
-
-Studente di Matematica Teoretica e Fisica Teorica, scrittore, saggista, teorico, pianista e organista.
 </div>
 
 ---
