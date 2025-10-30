@@ -1,11 +1,1 @@
-# FILE DI CONFIGURAZIONE GENERALE PER JEKYLL
-# Questo file definisce il titolo, la descrizione e il tema del tuo sito.
 
-
-# --- IMPOSTAZIONI DEL TEMA ---
-# Sostituisci "minimal" con il nome del tema che preferisci (es. cayman, leap-day)
-remote_theme: pages-themes/minimal@v0.2.0
-
-# Abilita il supporto Markdown per il README
-plugins:
-  - jekyll-remote-theme
