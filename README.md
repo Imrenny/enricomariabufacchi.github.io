@@ -10,7 +10,9 @@
 
 _Enrico Maria Bufacchi_ è uno studente di _Matematica Teoretica_ e _Fisica Teorica_ presso _l'Università La Sapienza di Roma_.
 
-Questo sito è un atto di _publicum facere_ dei suoi scritti, _paper_ e opere. La sua ricerca non è strettamente divisa per discipline culturali, ma altresì unificata da un unico fine: l'applicazione, tra le altre, del rigore delle scienze formali allo studio dei sistemi complessi, astratti e concreti.
+Questo sito è un atto di _publicum facere_ dei suoi scritti letterari, _paper scientifici_ e opere. La sua ricerca non è strettamente divisa per discipline culturali, ma altresì unificata da un unico fine: l'applicazione, tra le altre, del rigore delle scienze formali allo studio dei sistemi complessi, astratti e concreti.
+
+I suoi saggi teoretici e scritti sono principalmente di natura filosofica, antropologica, sociologica e politica.
 
 <br>
 
