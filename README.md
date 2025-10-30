@@ -24,13 +24,14 @@ Questo sito è un atto di _publicum facere_ dei suoi scritti, _paper_ e opere. L
 ### Saggi Teoretici
 
 * [**Lues Occidentis: Saggi sulla Polis, Schola e Precarietà (PDF)**](Lues_Occidentis.pdf)
-* [** (PDF)**](Lues_Occidentis.pdf)
+* [**Amore umano, troppo umano (PDF)**](Amore_Umano_Troppo_Umano.pdf)
+* [**Breve saggio critico sull'eclissi ideologica (PDF)**](Saggio_Critico_sull'Eclissi_Ideologica.pdf)
 
 <br>
 
 ### Pensieri, Riflessioni e Poesie
 
-*(Ancora nessuna pubblicazione...)*
+* [**Pensiero critico sulla teoria teologica della continuità ratzingeriana (PDF)**](Pensiero_Sulla_Teoria_Ratzingeriana.pdf)
 
 <br>
 
