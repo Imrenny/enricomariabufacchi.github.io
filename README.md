@@ -38,7 +38,7 @@ His theoretical essays and literary writings are primarily situated at the inter
 
 ### Musings, Reflections and Poetry
 
-* [**Pensiero critico sulla teoria teologica della continuità ratzingeriana (PDF)**](Pensiero_sulla_Teoria_Ratzingeriana.pdf)
+* [**Pensiero critico sulla teoria teologica della continuità ratzingeriana (PDF)**](Pensiero_sulla_teoria_ratzingeriana.pdf)
 
 <br>
 
