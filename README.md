@@ -30,21 +30,21 @@ His theoretical essays and literary writings are primarily situated at the inter
 
 ### Theoretical Essays
 
-* [**Lues occidentis: saggi sulla polis, schola e precarietà (PDF)**](/enricomariabufacchi.github.io/Lues_Occidentis.pdf)
-* [**Amore umano, troppo umano: monogamia, peccato e libertà (PDF)**](/enricomariabufacchi.github.io/Amore_Umano_Troppo_Umano.pdf)
-* [**Breve saggio critico sulla morte ideologica (PDF)**](/enricomariabufacchi.github.io/Saggio_Critico_sull'Eclissi_Ideologica.pdf)
+* [**Lues occidentis: saggi sulla polis, schola e precarietà (PDF)**](Lues_Occidentis.pdf)
+* [**Amore umano, troppo umano: monogamia, peccato e libertà (PDF)**](Amore_Umano_Troppo_Umano.pdf)
+* [**Breve saggio critico sulla morte ideologica (PDF)**](Saggio_Critico_sull'Eclissi_Ideologica.pdf)
 
 <br>
 
 ### Musings, Reflections and Poetry
 
-* [**Pensiero critico sulla teoria teologica della continuità ratzingeriana (PDF)**](/enricomariabufacchi.github.io/Pensiero_sulla_Teoria_Ratzingeriana.pdf)
+* [**Pensiero critico sulla teoria teologica della continuità ratzingeriana (PDF)**](Pensiero_sulla_Teoria_Ratzingeriana.pdf)
 
 <br>
 
 ### Mathematics and Physics Papers
 
-* [**Green-Griffiths-Lang Conjecture (PDF)**](/enricomariabufacchi.github.io/GGL_Conjecture.pdf)
+* [**Green-Griffiths-Lang Conjecture (PDF)**](GGL_Conjecture.pdf)
 
 ---
 
