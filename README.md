@@ -11,16 +11,16 @@
 ### IT:
 _Enrico Maria Bufacchi_ è uno studente di _Matematica Teoretica_ e _Fisica Teorica_ presso _l'Università La Sapienza di Roma_.
 
-Questo sito è un atto di _publicum facere_ dei suoi scritti letterari, _paper scientifici_, opere e teoresi.
+Questo sito è un atto di _publicum facere_ dei suoi scritti letterari, _paper scientifici_ e teoresi.
 
-I suoi saggi teoretici e le sue opere letterarie trattano principalmente di filosofia teorica, storia della filosofia, teologia, antropologia, sociologia e politica.
+I suoi saggi teoretici e le sue opere trattano principalmente di filosofia teorica, storia della filosofia, teologia, antropologia, sociologia e politica.
 
 ### ENG:
 _Enrico Maria Bufacchi_ is a student of _Theoretical Mathematics_ and _Theoretical Physics_ at _La Sapienza University of Rome_.
 
-This website functions as an act of _publicum facere_ for his literary works, _scientific papers_, theoretical writings and _theoresis_.
+This website functions as an act of _publicum facere_ for his literary works, _scientific papers_ and _theoresis_.
 
-His theoretical essays and literary works deal principally with theoretical philosophy, history of philosophy, theology, anthropology, sociology, and politics
+His theoretical essays and works deal principally with theoretical philosophy, history of philosophy, theology, anthropology, sociology, and politics
 <br>
 
 ---
