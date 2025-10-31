@@ -25,7 +25,7 @@ His theoretical essays and literary works deal principally with theoretical phil
 
 ---
 
-## Literary and Scientific Works
+## Works
 
 ### Theoretical Essays
 
