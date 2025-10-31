@@ -38,6 +38,7 @@ His theoretical essays and works deal principally with theoretical philosophy, h
 ### Meditations, Studies, _Theoresis_ and Poetry
 
 * [**Pensiero critico sulla teoria teologica della continuità ratzingeriana (PDF)**](Pensiero_sulla_teoria_ratzingeriana.pdf)
+* [**Teoresi sull'aporia del conatus nel monismo spinoziano (PDF)**](Teoresi_sull_aporia_del_conatus_nel_monismo_di_Spinoza.pdf)
 
 <br>
 
