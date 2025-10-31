@@ -13,6 +13,3 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# --- IMPOSTAZIONI DI STILE (facoltativo, per un tocco in più) ---
-# Imposta il colore di sfondo (es. ffffff è bianco)
-# style: light
