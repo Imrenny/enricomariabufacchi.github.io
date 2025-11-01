@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="enricom.jpg" width="250px" style="border-radius: 50%;"> 
+<img src="enricomaria.jpg" width="250px" style="border-radius: 50%;"> 
 
 </div>
 
