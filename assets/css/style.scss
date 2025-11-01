@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom styles to make hyperlinks appear in blue */
+a {
+  color: #0000FF !important; /* Pure blue color */
+}
+
+a:visited {
+  color: #0000CC !important; /* Slightly darker blue for visited links */
+}
+
+a:hover {
+  color: #0000FF !important; /* Keep blue on hover */
+  text-decoration: underline;
+}
+
+a:active {
+  color: #0000FF !important; /* Keep blue when clicking */
+}
