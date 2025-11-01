@@ -29,7 +29,7 @@ His theoretical essays and works deal principally with theoretical philosophy, h
 
 ### Theoretical Essays
 
-* <a href="Lues_Occidentis.pdf" style="color: #0000EE;"><strong>Lues occidentis: saggi sulla polis, schola e precarietà (PDF)</strong></a>
+* [**Lues occidentis: saggi sulla polis, schola e precarietà (PDF)**](Lues_Occidentis.pdf)
 * [**Amore umano, troppo umano: monogamia, peccato e libertà (PDF)**](Amore_umano__troppo_umano.pdf)
 * [**Breve saggio critico sulla morte ideologica (PDF)**](Saggio_sulla_morte_ideologica.pdf)
 
