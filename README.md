@@ -37,7 +37,7 @@ His theoretical essays and works deal principally with theoretical philosophy, h
 
 ### Meditations, Studies, _Theoresis_ and Poetry
 
-* [**Teoresi elenctica della logica polivalente di Jan Łukasiewicz (PDF)**](Confutazione_teoretica_della_logica_polivalente_di_Lukasiewicz.pdf)
+* [**Teoresi elenctica della logica polivalente di Jan Łukasiewicz (PDF)**](Teoresi_elenctica_della_logica_polivalente_di_Lukasiewicz.pdf)
 * [**Teoresi aporetica del conatus nel monismo spinoziano (PDF)**](Teoresi_sull_aporia_del_conatus_nel_monismo_di_Spinoza.pdf)
 * [**Pensiero critico sulla teoria teologica della continuità ratzingeriana (PDF)**](Pensiero_sulla_teoria_ratzingeriana.pdf)
 
