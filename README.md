@@ -29,24 +29,29 @@ His theoretical essays and works deal principally with theoretical philosophy, h
 
 ### Theoretical Essays
 
-* <a href="Lues_Occidentis.pdf" style="color: #0000EE !important;"><strong>Lues occidentis: saggi sulla polis, schola e precarietà (PDF)</strong></a>
-* <a href="Amore_umano__troppo_umano.pdf" style="color: #0000EE !important;"><strong>Amore umano, troppo umano: monogamia, peccato e libertà (PDF)</strong></a>
-* <a href="Saggio_sulla_morte_ideologica.pdf" style="color: #0000EE !important;"><strong>Breve saggio critico sulla morte ideologica (PDF)</strong></a>
+<ul>
+  <li><a href="Lues_Occidentis.pdf" style="color: #0000EE !important; text-decoration: underline !important;"><strong>Lues occidentis: saggi sulla polis, schola e precarietà (PDF)</strong></a></li>
+  <li><a href="Amore_umano__troppo_umano.pdf" style="color: #0000EE !important; text-decoration: underline !important;"><strong>Amore umano, troppo umano: monogamia, peccato e libertà (PDF)</strong></a></li>
+  <li><a href="Saggio_sulla_morte_ideologica.pdf" style="color: #0000EE !important; text-decoration: underline !important;"><strong>Breve saggio critico sulla morte ideologica (PDF)</strong></a></li>
+</ul>
 
 <br>
 
 ### Meditations, Studies, _Theoresis_ and Poetry
 
-* <a href="Teoresi_elenctica_della_logica_polivalente_di_Lukasiewicz.pdf" style="color: #0000EE !important;"><strong>Teoresi elenctica della logica polivalente di Jan Łukasiewicz (PDF)</strong></a>
-* <a href="Teoresi_sull_aporia_del_conatus_nel_monismo_di_Spinoza.pdf" style="color: #0000EE !important;"><strong>Teoresi aporetica del conatus nel monismo spinoziano (PDF)</strong></a>
-* <a href="Pensiero_sulla_teoria_ratzingeriana.pdf" style="color: #0000EE !important;"><strong>Pensiero critico sulla teoria teologica della continuità ratzingeriana (PDF)</strong></a>
-
+<ul>
+  <li><a href="Teoresi_elenctica_della_logica_polivalente_di_Lukasiewicz.pdf" style="color: #0000EE !important; text-decoration: underline !important;"><strong>Teoresi elenctica della logica polivalente di Jan Łukasiewicz (PDF)</strong></a></li>
+  <li><a href="Teoresi_sull_aporia_del_conatus_nel_monismo_di_Spinoza.pdf" style="color: #0000EE !important; text-decoration: underline !important;"><strong>Teoresi aporetica del conatus nel monismo spinoziano (PDF)</strong></a></li>
+  <li><a href="Pensiero_sulla_teoria_ratzingeriana.pdf" style="color: #0000EE !important; text-decoration: underline !important;"><strong>Pensiero critico sulla teoria teologica della continuità ratzingeriana (PDF)</strong></a></li>
+</ul>
 
 <br>
 
 ### Mathematics and Physics Papers
 
-* <a href="GGL_Conjecture.pdf" style="color: #0000EE !important;"><strong>Green-Griffiths-Lang Conjecture (PDF)</strong></a>
+<ul>
+  <li><a href="GGL_Conjecture.pdf" style="color: #0000EE !important; text-decoration: underline !important;"><strong>Green-Griffiths-Lang Conjecture (PDF)</strong></a></li>
+</ul>
 
 ---
 
