@@ -5,18 +5,20 @@
 
 /* Custom styles to make hyperlinks appear in blue */
 a {
-  color: #0000FF !important; /* Pure blue color */
+  color: #0000FF; /* Pure blue color */
+  text-decoration: underline;
 }
 
 a:visited {
-  color: #0000CC !important; /* Slightly darker blue for visited links */
+  color: #0000CC; /* Slightly darker blue for visited links */
 }
 
 a:hover {
-  color: #0000FF !important; /* Keep blue on hover */
+  color: #0000FF; /* Keep blue on hover */
   text-decoration: underline;
 }
 
 a:active {
-  color: #0000FF !important; /* Keep blue when clicking */
+  color: #0000FF; /* Keep blue when clicking */
+  text-decoration: underline;
 }
