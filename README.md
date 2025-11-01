@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="enricomaria.jpg" width="250px" style="border-radius: 50%;"> 
+<img src="enricomaria.jpg" width="250px"> 
 
 </div>
 
@@ -9,14 +9,14 @@
 ## Profile
 
 ### IT:
-_Enrico Maria Bufacchi_ è uno studente di _Matematica Teoretica_ e _Fisica Teorica_ presso _l'Università La Sapienza di Roma_.
+_Enrico Maria Bufacchi_ è uno studente di _Matematica Teoretica_ presso il dipartimento di matematica "Guido Castelnuovo" _dell'Università La Sapienza di Roma_.
 
 Questo sito è un atto di _publicum facere_ dei suoi scritti letterari, _paper scientifici_ e teoresi.
 
 I suoi saggi teoretici e le sue opere trattano principalmente di filosofia teorica, storia della filosofia, teologia, antropologia, sociologia e politica.
 
 ### ENG:
-_Enrico Maria Bufacchi_ is a student of _Theoretical Mathematics_ and _Theoretical Physics_ at _La Sapienza University of Rome_.
+_Enrico Maria Bufacchi_ is a student in _Theoretical Mathematics_ at the department of mathematics "Guido Castelnuovo" of _Sapienza University of Rome_.
 
 This website functions as an act of _publicum facere_ for his literary works, _scientific papers_ and _theoresis_.
 
