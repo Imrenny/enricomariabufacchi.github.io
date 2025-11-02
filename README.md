@@ -29,24 +29,25 @@ His theoretical essays and works deal principally with theoretical philosophy, h
 
 ### Theoretical Essays
 
-* [**Lues occidentis: saggi sulla polis, schola e precarietà (PDF)**](Lues_Occidentis.pdf)
-* [**Amore umano, troppo umano: monogamia, peccato e libertà (PDF)**](Amore_umano__troppo_umano.pdf)
-* [**Breve saggio critico sulla morte ideologica (PDF)**](Saggio_sulla_morte_ideologica.pdf)
+* [**Bufacchi, E.M. Teoria sulla non-definibilità ontologica della libertà (PDF)**](Teoria_sulla_non_definibilità_ontologica_della_libertà.pdf)
+* [**Bufacchi, E.M. Lues occidentis: saggi sulla polis, schola e precarietà (PDF)**](Lues_Occidentis.pdf)
+* [**Bufacchi, E.M. Amore umano, troppo umano: monogamia, peccato e libertà (PDF)**](Amore_umano__troppo_umano.pdf)
+* [**Bufacchi, E.M. Breve saggio critico sulla morte ideologica (PDF)**](Saggio_sulla_morte_ideologica.pdf)
 
 <br>
 
-### Meditations, Studies, _Theoresis_ and Poetry
+### Meditations, Studies and _Theoresis_
 
-* [**Teoresi elenctica della logica polivalente di Jan Łukasiewicz (PDF)**](Teoresi_elenctica_della_logica_polivalente_di_Lukasiewicz.pdf)
-* [**Teoresi aporetica del conatus nel monismo spinoziano (PDF)**](Teoresi_sull_aporia_del_conatus_nel_monismo_di_Spinoza.pdf)
-* [**Pensiero critico sulla teoria teologica della continuità ratzingeriana (PDF)**](Pensiero_sulla_teoria_ratzingeriana.pdf)
+* [**Bufacchi, E.M. Teoresi elenctica della logica polivalente di Jan Łukasiewicz (PDF)**](Teoresi_elenctica_della_logica_polivalente_di_Lukasiewicz.pdf)
+* [**Bufacchi, E.M. Teoresi aporetica del conatus nel monismo spinoziano (PDF)**](Teoresi_sull_aporia_del_conatus_nel_monismo_di_Spinoza.pdf)
+* [**Bufacchi, E.M. Pensiero critico sulla teoria teologica della continuità ratzingeriana (PDF)**](Pensiero_sulla_teoria_ratzingeriana.pdf)
 
 
 <br>
 
-### Mathematics and Physics Papers
+### Mathematics and Physics Research Papers
 
-* [**Green-Griffiths-Lang Conjecture (PDF)**](GGL_Conjecture.pdf)
+* [**Bufacchi, E.M. Green-Griffiths-Lang Conjecture (PDF)**](GGL_Conjecture.pdf)
 
 ---
 
