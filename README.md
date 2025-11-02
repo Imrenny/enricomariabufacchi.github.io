@@ -13,7 +13,7 @@ _Enrico Maria Bufacchi_ è uno studente di _Matematica Teoretica_ presso il dipa
 
 Questo sito è un atto di _publicum facere_ dei suoi scritti letterari, _paper scientifici_ e teoresi.
 
-I suoi saggi teoretici e le sue opere trattano principalmente di filosofia teorica, storia della filosofia, teologia, antropologia, sociologia e politica.
+I suoi saggi teoretici e i suoi scritti trattano principalmente di filosofia teorica, storia della filosofia, teologia, antropologia, sociologia e politica.
 
 ### ENG:
 _Enrico Maria Bufacchi_ is a student in _Theoretical Mathematics_ at the department of mathematics "Guido Castelnuovo" of _Sapienza University of Rome_.
