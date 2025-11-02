@@ -20,7 +20,7 @@ _Enrico Maria Bufacchi_ is a student in _Theoretical Mathematics_ at the departm
 
 This website functions as an act of _publicum facere_ for his literary works, _scientific papers_ and _theoresis_.
 
-His theoretical essays and writings deal principally with theoretical philosophy, history of philosophy, theology, anthropology, sociology, and politics
+His theoretical essays and his writings deal principally with theoretical philosophy, history of philosophy, theology, anthropology, sociology, and politics
 <br>
 
 ---
