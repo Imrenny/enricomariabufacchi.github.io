@@ -16,7 +16,7 @@ Questo sito è un atto di _publicum facere_ che raccoglie un corpus di scritti c
 ### ENG:
 _Enrico Maria Bufacchi_ is a theorist, essayist, and student in theoretical mathematics at the 'Guido Castelnuovo' Department of Mathematics, _Sapienza University of Rome_.
 
-This website functions as an act of _publicum facere_, collecting a corpus of writings articulated into scientific research papers, theories, theoresis, essays, and meditations, which deal principally with theoretical philosophy, history of philosophy, theology, anthropology, sociology and politics.
+This website functions as an act of _publicum facere_, collecting a corpus of writings articulated into scientific research papers, theories, theoresis, essays and meditations, which deal principally with theoretical philosophy, history of philosophy, theology, anthropology, sociology and politics.
 
 <br>
 
