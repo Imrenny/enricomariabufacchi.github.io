@@ -29,25 +29,25 @@ His theoretical essays and his writings deal principally with theoretical philos
 
 ### Theoretical Essays
 
-* [**Bufacchi, E.M. Teoria sulla non-definibilità ontologica della libertà (PDF)**](Teoria_sulla_non_definibilità_ontologica_della_libertà.pdf)
-* [**Bufacchi, E.M. Lues occidentis: saggi sulla polis, schola e precarietà (PDF)**](Lues_Occidentis.pdf)
-* [**Bufacchi, E.M. Amore umano, troppo umano: monogamia, peccato e libertà (PDF)**](Amore_umano__troppo_umano.pdf)
-* [**Bufacchi, E.M. Breve saggio critico sulla morte ideologica (PDF)**](Saggio_sulla_morte_ideologica.pdf)
+* [**Bufacchi, E.M. Teoria sulla non-definibilità ontologica della libertà (PDF)**](Bufacchi_EM_Teoria_sulla_non_definibilità_ontologica_della_libertà.pdf)
+* [**Bufacchi, E.M. Lues occidentis: saggi sulla polis, schola e precarietà (PDF)**](Bufacchi_EM_Lues_Occidentis.pdf)
+* [**Bufacchi, E.M. Amore umano, troppo umano: monogamia, peccato e libertà (PDF)**](Bufacchi_EM_Amore_umano__troppo_umano.pdf)
+* [**Bufacchi, E.M. Breve saggio critico sulla morte ideologica (PDF)**](Bufacchi_EM_Saggio_sulla_morte_ideologica.pdf)
 
 <br>
 
 ### Meditations, Studies and _Theoresis_
 
-* [**Bufacchi, E.M. Teoresi elenctica della logica polivalente di Jan Łukasiewicz (PDF)**](Teoresi_elenctica_della_logica_polivalente_di_Lukasiewicz.pdf)
-* [**Bufacchi, E.M. Teoresi aporetica del conatus nel monismo spinoziano (PDF)**](Teoresi_sull_aporia_del_conatus_nel_monismo_di_Spinoza.pdf)
-* [**Bufacchi, E.M. Pensiero critico sulla teoria teologica della continuità ratzingeriana (PDF)**](Pensiero_sulla_teoria_ratzingeriana.pdf)
+* [**Bufacchi, E.M. Teoresi elenctica della logica polivalente di Jan Łukasiewicz (PDF)**](Bufacchi_EM_Teoresi_elenctica_della_logica_polivalente_di_Lukasiewicz.pdf)
+* [**Bufacchi, E.M. Teoresi aporetica del conatus nel monismo spinoziano (PDF)**](Bufacchi_EM_Teoresi_sull_aporia_del_conatus_nel_monismo_di_Spinoza.pdf)
+* [**Bufacchi, E.M. Pensiero critico sulla teoria teologica della continuità ratzingeriana (PDF)**](Bufacchi_EM_Pensiero_sulla_teoria_ratzingeriana.pdf)
 
 
 <br>
 
 ### Mathematics and Physics Research Papers
 
-* [**Bufacchi, E.M. Green-Griffiths-Lang Conjecture (PDF)**](GGL_Conjecture.pdf)
+* [**Bufacchi, E.M. Green-Griffiths-Lang Conjecture (PDF)**](Bufacchi_EM_GGL_Conjecture.pdf)
 
 ---
 
