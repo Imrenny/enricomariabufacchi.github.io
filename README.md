@@ -9,18 +9,13 @@
 ## Profile
 
 ### IT:
-_Enrico Maria Bufacchi_ è uno studente di _matematica teoretica_ presso il dipartimento di matematica "Guido Castelnuovo" _dell'Università La Sapienza di Roma_.
-
-Questo sito è un atto di _publicum facere_ dei suoi scritti letterari, _paper scientifici_ e teoresi.
-
-I suoi saggi teoretici e i suoi scritti trattano principalmente di filosofia teorica, storia della filosofia, teologia, antropologia, sociologia e politica.
+_Enrico Maria Bufacchi_ è un teorico, saggista e studente di matematica teoretica presso il dipartimento di matematica "Guido Castelnuovo" _dell'Università La Sapienza di Roma_.
+Questo sito è un atto di _publicum facere_ che raccoglie un corpus di scritti che si articola in paper di ricerca scientifica, teorie, teoresi, saggi e pensieri, che trattano principalmente di filosofia teorica, storia della filosofia, teologia, antropologia, sociologia e politica.
 
 ### ENG:
-_Enrico Maria Bufacchi_ is a student in _theoretical mathematics_ at the department of mathematics "Guido Castelnuovo" of _Sapienza University of Rome_.
+Enrico Maria Bufacchi is a theorist, essayist, and student in theoretical mathematics at the 'Guido Castelnuovo' Department of Mathematics, _Sapienza University of Rome_.
+This website functions as an act of _publicum facere_, collecting a corpus of writings articulated into scientific research papers, theories, theoresis, essays, and meditations, which deal principally with theoretical philosophy, history of philosophy, theology, anthropology, sociology, and politics.
 
-This website functions as an act of _publicum facere_ for his literary works, _scientific papers_ and _theoresis_.
-
-His theoretical essays and his writings deal principally with theoretical philosophy, history of philosophy, theology, anthropology, sociology, and politics
 <br>
 
 ---
