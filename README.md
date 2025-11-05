@@ -29,7 +29,7 @@ This website is a _publicatio_ that collects his mathematical-physical scientifi
 * [**Bufacchi, E.M. Teoria sulla non-definibilità ontologica della libertà (PDF)**](Bufacchi_EM_Teoria_sulla_non_definibilità_ontologica_della_libertà.pdf)
 * [**Bufacchi, E.M. Lues occidentis: saggi sulla polis, schola e precarietà (PDF)**](Bufacchi_EM_Lues_Occidentis.pdf)
 * [**Bufacchi, E.M. Amore umano, troppo umano: monogamia, peccato e libertà (PDF)**](Bufacchi_EM_Amore_umano__troppo_umano.pdf)
-* [**Bufacchi, E.M. Breve saggio critico sulla morte ideologica (PDF)**](Bufacchi_EM_Saggio_sulla_morte_ideologica.pdf)
+* [**Bufacchi, E.M. La morte dell'ideologia e la metamorfosi assolutistica (PDF)**](Bufacchi_EM_La_morte_dell_ideologia_e_la_metamorfosi_assolutistica.pdf)
 
 <br>
 
