@@ -54,6 +54,26 @@ This website is a _publicatio_ that collects his mathematical-physical scientifi
 
 ---
 
+<div id="disqus_thread"></div>
+<script>
+    
+        var disqus_config = function () {
+        this.page.url = 'https://enricomariabufacchi.it/';  
+        this.page.identifier = 'home'; 
+    };
+    
+    (function() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://http-enricomariabufacchi-it.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+---
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
