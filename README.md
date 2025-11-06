@@ -54,6 +54,24 @@ This website is a _publicatio_ that collects his mathematical-physical scientifi
 
 ---
 
+<script src="https://giscus.app/client.js"
+        data-repo="Imrenny/enricomariabufacchi.github.io"
+        data-repo-id="R_kgDOQMJyKA"
+        data-category="General"
+        data-category-id="DIC_kwDOQMJyKM4CxQod"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="it"
+        crossorigin="anonymous"
+        async>
+</script>
+
+---
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
