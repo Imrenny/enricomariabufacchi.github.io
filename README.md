@@ -35,6 +35,7 @@ This website is a _publicatio_ that collects his mathematical-physical scientifi
 
 ### _Theoresis_ and Studies
 
+* [**Bufacchi, E.M. La contingenza del logos: teoresi sulla costituzione a-razionale della forma (PDF)**](Bufacchi_EM_Teoresi_sulla_costituzione_a_razionale_della_forma.pdf)
 * [**Bufacchi, E.M. Teoria sulla non-definibilità ontologica della libertà (PDF)**](Bufacchi_EM_Teoria_sulla_non_definibilità_ontologica_della_libertà.pdf)
 * [**Bufacchi, E.M. Teoresi elenctica della logica polivalente di Jan Łukasiewicz (PDF)**](Bufacchi_EM_Teoresi_elenctica_della_logica_polivalente_di_Lukasiewicz.pdf)
 * [**Bufacchi, E.M. Teoresi aporetica del conatus nel monismo spinoziano (PDF)**](Bufacchi_EM_Teoresi_sull_aporia_del_conatus_nel_monismo_di_Spinoza.pdf)
