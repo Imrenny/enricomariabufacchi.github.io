@@ -28,7 +28,7 @@ This website is a _publicatio_ that collects his mathematical-physical scientifi
 
 * [**Bufacchi, E.M. Lues occidentis: saggi sulla polis, schola e precarietà (PDF)**](Bufacchi_EM_Lues_Occidentis.pdf)
 * [**Bufacchi, E.M. Amore umano, troppo umano: monogamia, peccato e libertà (PDF)**](Bufacchi_EM_Amore_umano__troppo_umano.pdf)
-* [**Bufacchi, E.M. Saggio critico sulla teoria teologica della continuità ratzingeriana (PDF)**](Bufacchi_EM_Pensiero_sulla_teoria_ratzingeriana.pdf)
+* [**Bufacchi, E.M. Saggio critico sulla teologia della continuità ratzingeriana (PDF)**](Bufacchi_EM_Saggio_critico_sulla_teoria_ratzingeriana.pdf)
 * [**Bufacchi, E.M. La morte dell'ideologia e la metamorfosi assolutistica (PDF)**](Bufacchi_EM_La_morte_dell_ideologia_e_la_metamorfosi_assolutistica.pdf)
 
 <br>
