@@ -24,6 +24,8 @@ This website is a _publicatio_ that collects his mathematical-physical scientifi
 
 ## Works
 
+## ATTENZIONE: SITO IN MANUTENZIONE. MOLTI PDF NON SARANNO MOMENTANEAMENTE DISPONIBILI.
+
 ### Theoretical Essays
 
 * [**Bufacchi, E.M. Lues occidentis: saggi sulla polis, schola e precarietà (PDF)**](Bufacchi_EM_Lues_Occidentis.pdf)
