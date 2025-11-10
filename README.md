@@ -26,26 +26,15 @@ This website is a _publicatio_ that collects his mathematical-physical scientifi
 
 ---
 
-## ATTENZIONE: SITO IN MANUTENZIONE. MOLTI PDF NON SARANNO MOMENTANEAMENTE DISPONIBILI.
+## ATTENZIONE: SITO IN MANUTENZIONE. I PDF NON SARANNO MOMENTANEAMENTE DISPONIBILI.
 
 ---
 
 ### Theoretical Essays
 
-* [**Bufacchi, E.M. Lues occidentis: saggi sulla polis, schola e precarietà (PDF)**](Bufacchi_EM_Lues_Occidentis.pdf)
-* [**Bufacchi, E.M. Amore umano, troppo umano: monogamia, peccato e libertà (PDF)**](Bufacchi_EM_Amore_umano__troppo_umano.pdf)
-* [**Bufacchi, E.M. Saggio critico sulla teologia della continuità ratzingeriana (PDF)**](Bufacchi_EM_Saggio_critico_sulla_teoria_ratzingeriana.pdf)
-* [**Bufacchi, E.M. La morte dell'ideologia e la metamorfosi assolutistica (PDF)**](Bufacchi_EM_La_morte_dell_ideologia_e_la_metamorfosi_assolutistica.pdf)
-
 <br>
 
 ### _Theoresis_ and Studies
-
-* [**Bufacchi, E.M. La contingenza del logos: teoresi sulla costituzione a-razionale della forma (PDF)**](Bufacchi_EM_Teoresi_sulla_costituzione_a_razionale_della_forma.pdf)
-* [**Bufacchi, E.M. Teoria sulla non-definibilità ontologica della libertà (PDF)**](Bufacchi_EM_Teoria_sulla_non_definibilità_ontologica_della_libertà.pdf)
-* [**Bufacchi, E.M. Teoresi elenctica della logica polivalente di Jan Łukasiewicz (PDF)**](Bufacchi_EM_Teoresi_elenctica_della_logica_polivalente_di_Lukasiewicz.pdf)
-* [**Bufacchi, E.M. Teoresi aporetica del conatus nel monismo spinoziano (PDF)**](Bufacchi_EM_Teoresi_sull_aporia_del_conatus_nel_monismo_di_Spinoza.pdf)
-
 
 <br>
 
