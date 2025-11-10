@@ -24,7 +24,11 @@ This website is a _publicatio_ that collects his mathematical-physical scientifi
 
 ## Works
 
+---
+
 ## ATTENZIONE: SITO IN MANUTENZIONE. MOLTI PDF NON SARANNO MOMENTANEAMENTE DISPONIBILI.
+
+---
 
 ### Theoretical Essays
 
