@@ -32,9 +32,13 @@ This website is a _publicatio_ that collects his mathematical-physical scientifi
 
 ### Theoretical Essays
 
+[(...)]
+
 <br>
 
 ### _Theoresis_ and Studies
+
+[(...)]
 
 <br>
 
