@@ -38,6 +38,8 @@ This website is a _publicatio_ that collects his mathematical-physical scientifi
 
 ### _Theoresis_ and Studies
 
+* [**Bufacchi, E.M. Teoria sulla non-definibilità ontologica della libertà (PDF)**](Bufacchi_EM_Teoria_sulla_non_definibilità_ontologica_della_libertà.pdf)
+
 [...]
 
 <br>
