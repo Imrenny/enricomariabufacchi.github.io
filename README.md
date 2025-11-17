@@ -30,7 +30,7 @@ This website is a _publicatio_ that collects his mathematical-physical scientifi
 
 ## PROSSIME PUBBLICAZIONI: 
 
-* [**Bufacchi, E.M. Fondamenti di Filosofia Antica (PDF)**]
+* **Bufacchi, E.M. Fondamenti di Filosofia Antica (PDF)**
 
 ---
 
