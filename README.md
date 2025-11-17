@@ -11,12 +11,12 @@
 ### IT:
 _Enrico Maria Bufacchi_ è un teorico, saggista, scrittore e studente di matematica teorica presso il dipartimento di matematica "Guido Castelnuovo" _dell'Università La Sapienza di Roma_.
 
-Questo sito è una _publicatio_ che raccoglie i suoi _paper_ di ricerca scientifica matematico-fisica e i suoi scritti di teorie, teoresi, studi e saggi di filosofia teoretica, storia della filosofia, teologia, antropologia, sociologia e politica.
+Questo sito è una _publicatio_ che raccoglie i suoi _paper_ di ricerca scientifica matematico-fisica e i suoi scritti di teorie, teoresi, studi e saggi di filosofia teoretica, storia della filosofia, logica, teologia, antropologia, sociologia e politica.
 
 ### ENG:
 _Enrico Maria Bufacchi_ is a theorist, essayist, writer and student in theoretical mathematics at the 'Guido Castelnuovo' Department of Mathematics, _Sapienza University of Rome_.
 
-This website is a _publicatio_ that collects his mathematical-physical scientific research papers and his writings of theories, _theoresis_, studies and essays in theoretical philosophy, history of philosophy, theology, anthropology, sociology, and politics.
+This website is a _publicatio_ that collects his mathematical-physical scientific research papers and his writings of theories, _theoresis_, studies and essays in theoretical philosophy, history of philosophy, logic, theology, anthropology, sociology, and politics.
 
 <br>
 
