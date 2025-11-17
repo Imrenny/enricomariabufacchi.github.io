@@ -26,7 +26,11 @@ This website is a _publicatio_ that collects his mathematical-physical scientifi
 
 ---
 
-## ATTENZIONE: SITO IN MANUTENZIONE. I PDF NON SARANNO MOMENTANEAMENTE DISPONIBILI.
+## ATTENZIONE: SITO IN MANUTENZIONE. ALCUNI PDF NON SARANNO MOMENTANEAMENTE DISPONIBILI.
+
+## PROSSIME PUBBLICAZIONI: 
+
+* [**Bufacchi, E.M. Fondamenti di Filosofia Antica (PDF)**]
 
 ---
 
