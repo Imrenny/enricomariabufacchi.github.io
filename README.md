@@ -42,9 +42,8 @@ This website is a _publicatio_ that collects his mathematical-physical scientifi
 
 ### _Theoresis_ and Studies
 
+* [**Bufacchi, E.M. Sull'indimostrabilità interna della verità e sull'incompletezza dei sistemi formali (PDF)**](Bufacchi_EM_Sull_indimostrabilità_interna_della_verità_e_sull_incompletezza_dei_sistemi_formali.pdf)
 * [**Bufacchi, E.M. Teoria sulla non-definibilità ontologica della libertà (PDF)**](Bufacchi_EM_Teoria_sulla_non_definibilità_ontologica_della_libertà.pdf)
-
-[...]
 
 <br>
 
