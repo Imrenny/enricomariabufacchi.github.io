@@ -57,7 +57,7 @@ This website is a _publicatio_ that collects his mathematical-physical scientifi
 
 ## Contacts
 
-**[enrico03.bufacchi@gmail.com]**
+**enrico03.bufacchi@gmail.com**
 
 ---
 
